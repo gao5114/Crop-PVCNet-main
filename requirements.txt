@@ -1,0 +1,8 @@
+# Pheno4D-maize Model - Minimal Requirements for Inference
+torch>=1.8.0
+numpy>=1.19.0
+scipy>=1.5.0
+tqdm>=4.50.0
+
+# Note: Full training code and CUDA extensions not included in submission package
+# Complete code will be released upon paper acceptance
