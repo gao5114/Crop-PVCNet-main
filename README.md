@@ -158,16 +158,6 @@ x y z label
 
 If you use this model or datasets in your research, please cite:
 
-**Our Work**:
-```bibtex
-@article{pheno4d_maize_segmentation_2026,
-  title={Pheno4D-maize: Large-scale 3D Plant Point Cloud Segmentation with PVT/PVCT},
-  author={Your Name},
-  journal={Under Review},
-  year={2026}
-}
-```
-
 **Pheno4D Dataset**:
 ```bibtex
 @article{schunck2021pheno4d,
