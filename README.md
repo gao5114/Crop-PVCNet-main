@@ -216,7 +216,7 @@ If you use this model or datasets in your research, please cite:
 - This package contains **inference code only** for review purposes
 - Training code, data preprocessing, and CUDA implementations are **not included**
 - **Complete code** will be publicly released upon paper acceptance
-- For questions during review, please contact: [your-email]
+- For questions during review, please contact: [liujie@htu.edu.cn]
 
 ---
 
